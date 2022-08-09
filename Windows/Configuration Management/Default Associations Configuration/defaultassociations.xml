@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DefaultAssociations>
+  <Association ApplicationName="Microsoft Edge" ProgId="MSEdgeHTM" Identifier=".html"/>
+  <Association ApplicationName="Microsoft Edge" ProgId="MSEdgeHTM" Identifier=".htm"/>
+  <Association ApplicationName="Microsoft Edge" ProgId="MSEdgeHTM" Identifier="http"/>
+  <Association ApplicationName="Microsoft Edge" ProgId="MSEdgeHTM" Identifier="https"/>
+  <Association ApplicationName="Adobe Acrobat DC" ProgId="Acrobat.Document.DC" Identifier=".pdf"/>
+  <Association ApplicationName="Adobe Acrobat DC" ProgId="Acrobat.pdfxml" Identifier=".pdfxml"/>
+  <Association ApplicationName="Adobe Acrobat DC" ProgId="Acrobat.acrobatsecuritysettings" Identifier=".acrobatsecuritysettings"/>
+  <Association ApplicationName="Adobe Acrobat DC" ProgId="Acrobat.FDFDoc" Identifier=".fdf"/>
+  <Association ApplicationName="Adobe Acrobat DC" ProgId="Acrobat.XFDFDoc" Identifier=".xfdf"/>
+  <Association ApplicationName="Adobe Acrobat DC" ProgId="Acrobat.XDPDoc" Identifier=".xdp"/>
+  <Association ApplicationName="Adobe Acrobat DC" ProgId="PDXFileType" Identifier=".pdx"/>
+  <Association ApplicationName="Adobe Acrobat DC" ProgId="Acrobat.Plugin" Identifier=".api"/>
+  <Association ApplicationName="Adobe Acrobat DC" ProgId="Acrobat.SecStore" Identifier=".secstore"/>
+  <Association ApplicationName="Adobe Acrobat DC" ProgId="Acrobat.Sequence" Identifier=".sequ"/>
+  <Association ApplicationName="Adobe Acrobat DC" ProgId="Acrobat.RMFFile" Identifier=".rmf"/>
+  <Association ApplicationName="Adobe Acrobat DC" ProgId="AcrobatBPDXFileType" Identifier=".bpdx"/>
+</DefaultAssociations>
